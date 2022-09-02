@@ -1,0 +1,23 @@
+body,h1,h5 {font-family: 'Oswald', sans-serif;}
+
+body, html {height: 100%}
+
+.bgimg {
+  background-image: url('bg.gif');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.w3-modal-content
+{
+  background-color:  rgb(77, 54, 116);
+  color: rgb(14, 204, 204);
+}
+
+.w3-modal-content form p input
+{
+  background-color:  rgb(47, 29, 77);
+  color: rgb(14, 204, 204);
+}
+
